@@ -14,7 +14,7 @@ I'm a computer science student with a deep interest in software development, art
 ### 🏆 Highlights
 - 🥇 Winner — Smart India Hackathon 2024
 - 🚀 Founder — InspireX E-Cell GGCT
-- 🧠 Cracked Python Skill Assessment Test(Hackerrank), Packet Tracer
+- 🧠 Cracked Python Skill Certification Test(Hackerrank), Packet Tracer
 
 ### 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-verma-31a91b257/)
