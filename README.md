@@ -7,7 +7,7 @@ I'm a computer science student with a deep interest in software development, art
 ### 🛠️ Skills & Interests
 - 💻 Learning Full-Stack Development (MERN Stack)
 - 🤖 Exploring AI: YOLOv5, BERT and many more
-- 🔐 Networking & Cybersecurity: CCNA (in progress), Cisco Certified
+- 🔐 Networking & Cybersecurity: CCNA, Cisco Certified
 - 📊 Data Visualization: Tableau, Prometheus + Grafana
 - 🌐 Web Tech: JavaScript, React.js, Node.js, Tailwind CSS
 
