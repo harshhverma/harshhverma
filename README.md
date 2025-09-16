@@ -12,8 +12,8 @@ I'm a computer science student with a deep interest in software development, art
 - 🌐 Web Tech: Next.js, MongoDB, Express.js, React.js, Node.js, Tailwind CSS
 
 ### 🏆 Highlights
-- 🥇 Winner — Smart India Hackathon 2024
-- 🚀 Founder — InspireX E-Cell GGCT
+- 🥇 Winner - Smart India Hackathon 2024
+- 🚀 Founder - InspireX E-Cell GGCT
 - 🧠 Cracked Python Skill Certification Test(Hackerrank)
 
 ### 📫 Connect with Me
