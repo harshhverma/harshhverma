@@ -27,4 +27,5 @@ As the **Founder of InspireX E-Cell GGCT**, I lead peer mentorship and campus in
 
 ### 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-verma-31a91b257/)
+- 🌐 [Portfolio](https://harshverma-developer-portfolio.vercel.app/)
 - 📧 harshverma.8305@gmail.com
