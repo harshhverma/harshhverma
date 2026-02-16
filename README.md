@@ -9,8 +9,6 @@ With a background in networking, cybersecurity, and backend systems, I am now de
 
 My goal is to design and manage secure, scalable, and production-ready cloud systems.
 
----
-
 ## ☁️ Cloud & DevOps Focus
 
 - AWS Core Services (EC2, S3, IAM, VPC, RDS)
@@ -21,7 +19,6 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - Infrastructure Troubleshooting
 - Bash Scripting & Automation
 
----
 
 ## 🛠️ Hands-On Experience
 
@@ -32,7 +29,6 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - 🛡️ Built AI-based DDoS Protection System during SIH
 - 🥇 Winner – Smart India Hackathon 2024
 
----
 
 ## 🧠 Technical Foundation
 
@@ -42,7 +38,6 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - Networking Concepts (CCNA Fundamentals)
 - System Design & Infrastructure Basics
 
----
 
 ## 📜 Certifications & Training
 
@@ -51,13 +46,9 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - Python – HackerRank
 - Salesforce Admin & Developer (TCS_Last_Mile_Training)
 
----
-
 ## 🎯 Career Objective
 
 To start my professional journey as a **Cloud / DevOps Engineer**, where I can contribute to building scalable infrastructure while continuously improving my cloud architecture and automation skills.
-
----
 
 ## 📫 Connect With Me
 
