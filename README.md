@@ -1,6 +1,6 @@
 # ☁️ Hi, I'm Harsh Verma
 
-🎓 Final-Year B.Tech CSE Student | 🚀 Aspiring Cloud & DevOps Engineer | Ex-DRDO Intern  
+🎓 Final-Year B.Tech CSE Student | 🚀 Aspiring Cloud & DevOps Engineer | Former DRDO Intern  
 SIH 2024 Winner| Actively Seeking Entry-Level Cloud Roles
 
 I am currently focused on building a strong foundation in **Cloud Computing (AWS)** and **DevOps practices** to start my career in Cloud Infrastructure Engineering.
