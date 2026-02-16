@@ -1,31 +1,70 @@
-# 👋 Hi, I'm Harsh Verma
+# ☁️ Hi, I'm Harsh Verma
 
-🎓 Final-year B.Tech CSE Student | Salesforce Developer (TCS Last Mile) | SIH 2024 Winner | DRDO Intern | Full-Stack Salesforce Enthusiast
+🎓 Final-Year B.Tech CSE Student | SIH 2024 Winner | DRDO Intern  
+🚀 Aspiring Cloud & DevOps Engineer | Actively Seeking Entry-Level Cloud Roles
 
-I'm a passionate developer specializing in **Salesforce CRM solutions** and **MERN stack applications**, with a strong foundation in networking and cloud systems. Currently interning at **DRDO**, I’ve built scalable systems for AI-based DDoS protection. I’m also trained via the **TCS Last Mile Program (SmartBridge)** in Salesforce Admin & Developer modules, and actively contribute to real-world projects that blend innovation with impact.
+I am currently focused on building a strong foundation in **Cloud Computing (AWS)** and **DevOps practices** to start my career in Cloud Infrastructure Engineering.
 
-As the **Founder of InspireX E-Cell GGCT**, I lead peer mentorship and campus innovation initiatives, fostering collaboration and growth.
+With a background in networking, cybersecurity, and backend systems, I am now dedicating myself to mastering deployment, scalability, automation, and system reliability in cloud environments.
 
----
-
-### 🛠️ Skills & Interests
-- ⚡ Salesforce: Apex, LWC, Flows, Validation Rules, CRM Automation
-- 💻 Full-Stack Development: MongoDB, Express.js, React.js, Node.js
-- 🔐 Networking & CyberSecurity: CCNA, DRDO DDoS Protection System
-- 🌐 Web Tech: MERN, Tailwind CSS, REST APIs
-- 📊 Data & Visualization: Grafana
+My goal is to design and manage secure, scalable, and production-ready cloud systems.
 
 ---
 
-### 🏆 Highlights
-- 🥇 **Winner** – Smart India Hackathon 2024 (DRDO Problem Statement)
-- 🧠 **Intern** – DRDO (AI-based DDoS Protection System)
-- 🚀 **Founder** – InspireX E-Cell GGCT
-- 📜 **Certified** – Python (Hackerrank), CCNA (Cisco), AWS Cloud Foundations
+## ☁️ Cloud & DevOps Focus
+
+- AWS Core Services (EC2, S3, IAM, VPC, RDS)
+- Linux System Administration
+- Networking (DNS, TCP/IP, Load Balancing, Subnets)
+- Docker & Containerization
+- CI/CD Fundamentals
+- Infrastructure Troubleshooting
+- Bash Scripting & Automation
 
 ---
 
-### 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-verma-31a91b257/)
-- 🌐 [Portfolio](https://harshverma-developer-portfolio.vercel.app/)
-- 📧 harshverma.8305@gmail.com
+## 🛠️ Hands-On Experience
+
+- 🖥️ Deployed web applications on AWS EC2
+- 🔐 Configured IAM users, roles, and security policies
+- 🌐 Designed basic VPC architecture with public/private subnets
+- 📦 Worked with Docker containers
+- 🛡️ Built AI-based DDoS Protection System during SIH
+- 🥇 Winner – Smart India Hackathon 2024
+
+---
+
+## 🧠 Technical Foundation
+
+- Linux & Command Line
+- Git & Version Control
+- Basic Backend Development (Node.js, REST APIs)
+- Networking Concepts (CCNA Fundamentals)
+- System Design & Infrastructure Basics
+
+---
+
+## 📜 Certifications & Training
+
+- AWS Cloud Foundations - AWS Academy
+- CCNA (Cisco Netacad)
+- Python – HackerRank
+- Salesforce Admin & Developer (TCS_Last_Mile_Training)
+
+---
+
+## 🎯 Career Objective
+
+To start my professional journey as a **Cloud / DevOps Engineer**, where I can contribute to building scalable infrastructure while continuously improving my cloud architecture and automation skills.
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/harsh-verma-31a91b257/  
+🌐 Portfolio: https://harshverma-developer-portfolio.vercel.app/  
+📧 Email: harshverma.8305@gmail.com  
+
+---
+
+⚡ Open to Entry-Level Cloud / DevOps Engineer Roles
