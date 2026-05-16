@@ -1,61 +1,89 @@
 # Hi, I'm Harsh Verma
 
-Final-Year B.Tech CSE Student | 🚀 Aspiring Cloud & DevOps Engineer | Former DRDO Intern  
-SIH 2024 Winner| Actively Seeking Entry-Level Cloud Roles
+Final-Year B.Tech CSE Student | Aspiring Cloud & DevOps Engineer | Former DRDO Intern | SIH 2024 Winner | Actively Seeking Entry-Level Cloud & DevOps Roles
 
-I am currently focused on building a strong foundation in **Cloud Computing (AWS)** and **DevOps practices** to start my career in Cloud Infrastructure Engineering.
+I am currently focused on building strong foundations in Cloud Computing, Linux, Networking, Automation, and DevOps Engineering through hands-on practice and continuous learning.
 
-With a background in networking, cybersecurity, and backend systems, I am now dedicating myself to mastering deployment, scalability, automation, and system reliability in cloud environments.
+With a background in cybersecurity, backend systems, and cloud-based projects, I am now dedicated to mastering scalable infrastructure, deployment workflows, automation, and system reliability in modern cloud environments.
 
-My goal is to design and manage secure, scalable, and production-ready cloud systems.
+My goal is to design, automate, and manage secure and production-ready cloud infrastructure.
 
-## Cloud & DevOps Focus
+---
+
+# Cloud & DevOps Focus
 
 - AWS Core Services (EC2, S3, IAM, VPC, RDS)
 - Linux System Administration
-- Networking (DNS, TCP/IP, Load Balancing, Subnets)
-- Docker & Containerization
-- CI/CD Fundamentals
+- Shell Scripting & Automation
+- AWS CLI
+- Networking Fundamentals (DNS, TCP/IP, Subnets, Ports)
+- Git & GitHub Workflows
 - Infrastructure Troubleshooting
-- Bash Scripting & Automation
+- DevOps Fundamentals
 
+---
 
-## Hands-On Experience
+# Hands-On Experience
 
-- 🖥️ Deployed web applications on AWS EC2
-- 🔐 Configured IAM users, roles, and security policies
-- 🌐 Designed basic VPC architecture with public/private subnets
-- 📦 Worked with Docker containers
-- 🛡️ Built AI-based DDoS Protection System during SIH
-- 🥇 Winner – Smart India Hackathon 2024
+-  Deployed applications on AWS EC2
+-  Configured IAM users, roles, and access policies
+-  Practiced VPC concepts with public/private subnet architecture
+-  Built automation scripts using Bash and AWS CLI
+-  Worked with Linux environments and server management
+-  Built AI-based DDoS Protection System during SIH 2024
+-  Winner – Smart India Hackathon 2024
+-  Former Remote Intern – DRDO (SAG)
 
+---
 
-## Technical Foundation
+# Current Learning Journey
+
+Currently learning and practicing:
+
+- Linux Administration
+- Advanced Shell Scripting
+- AWS CLI Automation
+- Networking & OSI Fundamentals
+- Git & GitHub Branching Workflows
+- DevOps Core Concepts
+
+ Documenting my complete learning journey here:
+
+ [AWS DevOps Learning Playbook](https://github.com/harshhverma/aws-devops-learningbook.git)
+
+---
+
+# Technical Foundation
 
 - Linux & Command Line
 - Git & Version Control
 - Basic Backend Development (Node.js, REST APIs)
 - Networking Concepts (CCNA Fundamentals)
-- System Design & Infrastructure Basics
-
-
-## Certifications & Training
-
-- AWS Cloud Foundations - AWS Academy
-- CCNA (Cisco Netacad)
-- Python – HackerRank
-- Salesforce Admin & Developer (TCS_Last_Mile_Training)
-
-## Career Objective
-
-To start my professional journey as a **Cloud / DevOps Engineer**, where I can contribute to building scalable infrastructure while continuously improving my cloud architecture and automation skills.
-
-## Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/harsh-verma-31a91b257/  
-Portfolio: https://harshverma-developer-portfolio.vercel.app/  
-Email: harshverma.8305@gmail.com  
+- Cloud & Infrastructure Basics
+- Problem Solving & Debugging
 
 ---
 
-Open to Entry-Level Cloud / DevOps Engineer Roles
+# Certifications & Training
+
+- AWS Cloud Foundations – AWS Academy
+- CCNA – Cisco NetAcad
+- Python – HackerRank
+- Salesforce Admin & Developer – TCS iON Training
+
+---
+
+# Career Objective
+
+To begin my professional journey as a Cloud / DevOps Engineer where I can contribute to scalable infrastructure, automation, and cloud operations while continuously improving my engineering and problem-solving skills.
+
+---
+
+# Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/harsh-verma19/](https://www.linkedin.com/in/harsh-verma19/)
+- Email: harshverma8305@gmail.com
+
+---
+
+ Open to Entry-Level Cloud / DevOps / Infrastructure Engineering Opportunities
