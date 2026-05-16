@@ -69,7 +69,7 @@ Currently learning and practicing:
 - AWS Cloud Foundations – AWS Academy
 - CCNA – Cisco NetAcad
 - Python – HackerRank
-- Salesforce Admin & Developer – TCS iON Training
+- Salesforce Admin & Developer – TCS Last_Mile_Training Program
 
 ---
 
