@@ -1,6 +1,6 @@
-# ☁️ Hi, I'm Harsh Verma
+# Hi, I'm Harsh Verma
 
-🎓 Final-Year B.Tech CSE Student | 🚀 Aspiring Cloud & DevOps Engineer | Former DRDO Intern  
+Final-Year B.Tech CSE Student | 🚀 Aspiring Cloud & DevOps Engineer | Former DRDO Intern  
 SIH 2024 Winner| Actively Seeking Entry-Level Cloud Roles
 
 I am currently focused on building a strong foundation in **Cloud Computing (AWS)** and **DevOps practices** to start my career in Cloud Infrastructure Engineering.
@@ -9,7 +9,7 @@ With a background in networking, cybersecurity, and backend systems, I am now de
 
 My goal is to design and manage secure, scalable, and production-ready cloud systems.
 
-## ☁️ Cloud & DevOps Focus
+## Cloud & DevOps Focus
 
 - AWS Core Services (EC2, S3, IAM, VPC, RDS)
 - Linux System Administration
@@ -20,7 +20,7 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - Bash Scripting & Automation
 
 
-## 🛠️ Hands-On Experience
+## Hands-On Experience
 
 - 🖥️ Deployed web applications on AWS EC2
 - 🔐 Configured IAM users, roles, and security policies
@@ -30,7 +30,7 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - 🥇 Winner – Smart India Hackathon 2024
 
 
-## 🧠 Technical Foundation
+## Technical Foundation
 
 - Linux & Command Line
 - Git & Version Control
@@ -39,23 +39,23 @@ My goal is to design and manage secure, scalable, and production-ready cloud sys
 - System Design & Infrastructure Basics
 
 
-## 📜 Certifications & Training
+## Certifications & Training
 
 - AWS Cloud Foundations - AWS Academy
 - CCNA (Cisco Netacad)
 - Python – HackerRank
 - Salesforce Admin & Developer (TCS_Last_Mile_Training)
 
-## 🎯 Career Objective
+## Career Objective
 
 To start my professional journey as a **Cloud / DevOps Engineer**, where I can contribute to building scalable infrastructure while continuously improving my cloud architecture and automation skills.
 
-## 📫 Connect With Me
+## Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/harsh-verma-31a91b257/  
-🌐 Portfolio: https://harshverma-developer-portfolio.vercel.app/  
-📧 Email: harshverma.8305@gmail.com  
+LinkedIn: https://www.linkedin.com/in/harsh-verma-31a91b257/  
+Portfolio: https://harshverma-developer-portfolio.vercel.app/  
+Email: harshverma.8305@gmail.com  
 
 ---
 
-⚡ Open to Entry-Level Cloud / DevOps Engineer Roles
+Open to Entry-Level Cloud / DevOps Engineer Roles
