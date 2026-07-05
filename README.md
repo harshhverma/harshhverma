@@ -1,89 +1,131 @@
-# Hi, I'm Harsh Verma
+# Hi, I'm Harsh Verma 
 
-Final-Year B.Tech CSE Student | Aspiring Cloud & DevOps Engineer | Former DRDO Intern | SIH 2024 Winner | Actively Seeking Entry-Level Cloud & DevOps Roles
+## Cloud & DevOps Engineer | Former Software Development Intern @ DRDO (SAG) | Smart India Hackathon 2024 Winner
 
-I am currently focused on building strong foundations in Cloud Computing, Linux, Networking, Automation, and DevOps Engineering through hands-on practice and continuous learning.
+I'm a B.Tech Computer Science graduate passionate about Cloud Computing, DevOps, Linux, and Infrastructure Engineering. I enjoy building cloud-based solutions, automating workflows, and continuously improving my understanding of scalable and reliable infrastructure.
 
-With a background in cybersecurity, backend systems, and cloud-based projects, I am now dedicated to mastering scalable infrastructure, deployment workflows, automation, and system reliability in modern cloud environments.
-
-My goal is to design, automate, and manage secure and production-ready cloud infrastructure.
+I am currently focused on strengthening my expertise in AWS, Linux, Automation, CI/CD, and modern DevOps practices while actively seeking entry-level opportunities in Cloud & DevOps Engineering.
 
 ---
 
-# Cloud & DevOps Focus
+#  Current Focus
 
-- AWS Core Services (EC2, S3, IAM, VPC, RDS)
+- AWS Cloud Services
 - Linux System Administration
 - Shell Scripting & Automation
-- AWS CLI
-- Networking Fundamentals (DNS, TCP/IP, Subnets, Ports)
-- Git & GitHub Workflows
-- Infrastructure Troubleshooting
-- DevOps Fundamentals
+- Git & GitHub
+- Docker
+- Ansible
+- Terraform
+- CI/CD Fundamentals
+- GitHub Actions
+- Networking Fundamentals
+- Infrastructure Monitoring
 
 ---
 
-# Hands-On Experience
+#  Hands-On Experience
 
--  Deployed applications on AWS EC2
--  Configured IAM users, roles, and access policies
--  Practiced VPC concepts with public/private subnet architecture
--  Built automation scripts using Bash and AWS CLI
--  Worked with Linux environments and server management
--  Built AI-based DDoS Protection System during SIH 2024
--  Winner – Smart India Hackathon 2024
--  Former Remote Intern – DRDO (SAG)
+- Completed a 6-month Software Development Internship at **DRDO (SAG)**.
+- Smart India Hackathon 2024 Winner for developing an AI-based DDoS Protection System.
+- Built and deployed cloud-based projects using AWS services.
+- Developed Bash automation scripts and worked with AWS CLI.
+- Configured AWS services including EC2, S3, IAM, Lambda, API Gateway, DynamoDB, and CloudWatch.
+- Worked with Linux environments, monitoring, and cloud infrastructure fundamentals.
 
 ---
 
-# Current Learning Journey
+#  Currently Learning
 
-Currently learning and practicing:
+I'm continuously building practical skills in:
 
-- Linux Administration
-- Advanced Shell Scripting
-- AWS CLI Automation
-- Networking & OSI Fundamentals
-- Git & GitHub Branching Workflows
-- DevOps Core Concepts
+- Docker
+- Ansible
+- Terraform
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
+- Kubernetes (Learning Next)
 
- Documenting my complete learning journey here:
+I document my learning journey and hands-on practice here:
 
- [AWS DevOps Learning Playbook](https://github.com/harshhverma/aws-devops-learningbook.git)
+ **AWS DevOps Learning Playbook**
 
----
-
-# Technical Foundation
-
-- Linux & Command Line
-- Git & Version Control
-- Basic Backend Development (Node.js, REST APIs)
-- Networking Concepts (CCNA Fundamentals)
-- Cloud & Infrastructure Basics
-- Problem Solving & Debugging
+https://github.com/harshhverma/aws-devops-learningbook
 
 ---
 
-# Certifications & Training
+#  Tech Stack
 
-- AWS Cloud Foundations – AWS Academy
-- CCNA – Cisco NetAcad
-- Python – HackerRank
-- Salesforce Admin & Developer – TCS Last_Mile_Training Program
+### Cloud
+- AWS (EC2, S3, IAM, Lambda, API Gateway, DynamoDB, CloudWatch)
+
+### Operating Systems
+- Linux
+
+### Scripting
+- Bash
+- Python (Basic)
+
+### Version Control
+- Git
+- GitHub
+
+### Networking
+- DNS
+- TCP/IP
+- Subnetting
+- HTTP/HTTPS
+- SSH
+
+### Monitoring
+- Grafana
+- CloudWatch
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
 
 ---
 
-# Career Objective
+#  Achievements
 
-To begin my professional journey as a Cloud / DevOps Engineer where I can contribute to scalable infrastructure, automation, and cloud operations while continuously improving my engineering and problem-solving skills.
-
----
-
-# Connect With Me
-
-- LinkedIn: [https://www.linkedin.com/in/harsh-verma19/](https://www.linkedin.com/in/harsh-verma19/)
-- Email: harshverma8305@gmail.com
+-  Smart India Hackathon 2024 Winner
+-  Former Software Development Intern – DRDO (SAG)
+-  NEC Finalist (2023 & 2024)
 
 ---
 
- Open to Entry-Level Cloud / DevOps / Infrastructure Engineering Opportunities
+#  Certifications & Training
+
+- AWS Academy – Cloud Foundations
+- Cisco NetAcad – CCNA
+- HackerRank – Python
+- TCS Last Mile Training – Salesforce Admin & Developer
+
+---
+
+#  Career Objective
+
+To begin my career as a Cloud / DevOps Engineer where I can contribute to cloud infrastructure, automation, CI/CD, and platform reliability while continuously learning and growing as an engineer.
+
+---
+
+#  Connect With Me
+
+ LinkedIn  
+https://www.linkedin.com/in/harsh-verma19/
+
+📧 Email  
+harshverma8305@gmail.com
+
+---
+
+ Open to Entry-Level Opportunities in:
+
+- Cloud Engineering
+- DevOps Engineering
+- Site Reliability Engineering (SRE)
+- Infrastructure Engineering
+- Cloud Support Engineering
